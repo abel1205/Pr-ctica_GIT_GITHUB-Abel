@@ -6,5 +6,5 @@ print("Nota minima:", min(notas))
 print("Cantidad de notas:", len(notas))
 
 from statistics import median
-
 print("Mediana de notas:", median(notas))
+print("Modificación hecha")
