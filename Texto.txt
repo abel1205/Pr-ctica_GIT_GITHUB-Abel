@@ -4,4 +4,4 @@ Colaboradores grupo Fork-Abel: usuarios github
 3.colaborador 3
 4.colaborador 4
 
-"Somos el mejor grupo del curso =)"
+Abel dice: "Somos el mejor grupo del curso =)"
