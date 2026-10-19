@@ -10,3 +10,4 @@ print("Mediana de notas:", median(notas))
 print("Modificación hecha")
 
 print("modificacion hecha por Angel Meza")
+print("modificacion hecha por Brian Alva")
